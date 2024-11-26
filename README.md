@@ -1,6 +1,10 @@
+![Docling logo](./assets/docling-logo.png)
+
 # Docling Testing
 
 This repository demonstrates how to use Docling for document conversion (PDF, HTML, etc.) to structured formats like Markdown and JSON.
+
+The use I have for docling is particularly for tables.
 
 ## Installation
 
@@ -32,4 +36,4 @@ Note that the ‘ocr’ option almost never works with pdf files...
 
 ## Jupyter Notebook
 
-Use the notebook in notebook/Docling_Demo.ipynb to see my tests.
+Use the notebook in notebook/guide.ipynb to see my tests and results.
