@@ -1,8 +1,8 @@
-![Docling logo](./assets/docling-logo.png)
+![Docking logo](./assets/docling-logo.png)
 
 # Docling Testing
 
-This repository demonstrates how to use Docling for document conversion (PDF, HTML, etc.) to structured formats like Markdown and JSON.
+This repository demonstrates how to use Docking for document conversion (PDF, HTML, etc.) to structured formats like Markdown and JSON.
 
 The use I have for docling is particularly for tables.
 
@@ -11,7 +11,7 @@ The use I have for docling is particularly for tables.
 1. Clone the repository:
 
 ```bash
-git clone https://github.ibm.com/Quentin-Lefevre/docling-testing.git
+git clone https://github.ibm.com/Quentin-Lefevre/docking-testing.git
 
 cd docling-testing
 ```
