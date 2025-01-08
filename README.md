@@ -1,4 +1,4 @@
-![Docking logo](./assets/docling-logo.png)
+![Docling logo](./assets/docling-logo.png)
 
 # Docling Testing
 
@@ -11,7 +11,7 @@ The use I have for docling is particularly for tables.
 1. Clone the repository:
 
 ```bash
-git clone https://github.ibm.com/Quentin-Lefevre/docking-testing.git
+git clone https://github.ibm.com/Quentin-Lefevre/docling-testing.git
 
 cd docling-testing
 ```
